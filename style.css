@@ -1,0 +1,45 @@
+.rwe{
+    color: rgb(181, 164, 164);
+}
+.container-fluid{
+    background-color: rgb(47, 39, 39);
+}
+.name1{
+    background-color: antiquewhite;
+    display: flex;
+}
+.head1{
+    display: flex;
+    flex-direction: column;
+}
+.name2{
+   background-color: aquamarine;
+    display: flex;
+}
+.name3{
+    background-color: rgb(58, 152, 210);
+     display: flex;
+ }
+ .foot1{
+    background-color: antiquewhite;
+    display: flex;
+ }
+.footall{
+    display: flex;
+    background-color: antiquewhite;
+}
+
+
+ @media screen and (max-width:600px)
+  {
+    
+ } 
+ .ms-5 {
+    margin-left: 9rem!important;
+}
+.ms-4 {
+    margin-left: 5.5rem!important;
+}
+.mt-5 {
+    margin-top: 1rem!important;
+}
